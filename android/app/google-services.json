@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "323990250743",
+    "project_id": "escala-ministerial",
+    "storage_bucket": "escala-ministerial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323990250743:android:db8bc034faa20449829ff2",
+        "android_client_info": {
+          "package_name": "br.com.capivaratecnologias.escala_ministeria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323990250743-bu8qo9pkffengvtfdhhhkbao2tu9fnj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.capivaratecnologias.escala_ministeria",
+            "certificate_hash": "b564db0d8c746d1db59659d008330cf2d729b6a4"
+          }
+        },
+        {
+          "client_id": "323990250743-lin0sahda2gbji1tuj1empruv5hesejk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArPN0_rWvdEOW6S8Sbj0MvBj62FYPQh5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323990250743-lin0sahda2gbji1tuj1empruv5hesejk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323990250743:android:a1593d97fd5275f6829ff2",
+        "android_client_info": {
+          "package_name": "com.example.escala_atos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323990250743-km50st5kgm1jkcf6hn6ub29gavlpgvmj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.escala_atos",
+            "certificate_hash": "b564db0d8c746d1db59659d008330cf2d729b6a4"
+          }
+        },
+        {
+          "client_id": "323990250743-lin0sahda2gbji1tuj1empruv5hesejk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArPN0_rWvdEOW6S8Sbj0MvBj62FYPQh5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323990250743-lin0sahda2gbji1tuj1empruv5hesejk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
